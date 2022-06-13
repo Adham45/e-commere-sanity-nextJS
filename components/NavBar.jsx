@@ -9,7 +9,7 @@ const NavBar = () => {
     <div className='navbar-container'>
       <p className='logo'>
         <Link href="/">
-          Dokan Store
+          Electronics Store
         </Link>
       </p>
       <button type='button' className='cart-icon' onClick={() => setShowCart(true) }>
